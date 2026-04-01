@@ -1,0 +1,26 @@
+[
+  {
+    "customerName": "Alice Johnson",
+    "flavorName": "Vanilla Dream",
+    "review": "The ice cream was delicious and very creamy!",
+    "rating": 5
+  },
+  {
+    "customerName": "Mark Lee",
+    "flavorName": "Chocolate Bliss",
+    "review": "Super rich and satisfying.",
+    "rating": 4
+  },
+  {
+    "customerName": "Sarah Kim",
+    "flavorName": "Strawberry Swirl",
+    "review": "Loved the fruity flavor!",
+    "rating": 5
+  },
+  {
+    "customerName": "John Smith",
+    "flavorName": "Vanilla Dream",
+    "review": "Simple but perfect.",
+    "rating": 4
+  }
+]

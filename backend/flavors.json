@@ -1,0 +1,66 @@
+[ 
+  { 
+    "id": 1, 
+    "name": "Vanilla Dream", 
+    "price": "$4.99", 
+    "description": " Classic creamy vanilla ice cream made with fresh ingredients.", 
+    "duration": "8 weeks", 
+    "image": "images/vanilla.jpg" 
+  }, 
+   {
+    "id": 3,
+    "name": "Strawberry Swirl",
+    "price": "$5.29",
+    "description": "Fresh strawberries blended into creamy goodness.",
+    "duration": "7 weeks",
+    "image": "images/strawberry.jpg"
+  },
+  {
+  "id": 4,
+  "name": "Minty Fresh",
+  "price": "$5.19",
+  "description": "Refreshing mint ice cream with chocolate chips.",
+  "duration": "6 weeks",
+  "image": "images/mint.jpg"
+},
+{
+  "id": 5,
+  "name": "Caramel Crunch",
+  "price": "$5.59",
+  "description": "Sweet caramel ice cream with crunchy toffee bits.",
+  "duration": "7 weeks",
+  "image": "images/caramel.jpg"
+},
+{
+  "id": 6,
+  "name": "Cookies & Cream",
+  "price": "$5.49",
+  "description": "Classic vanilla ice cream loaded with cookie chunks.",
+  "duration": "8 weeks",
+  "image": "images/cookies.jpg"
+},
+{
+  "id": 7,
+  "name": "Mango Tango",
+  "price": "$5.29",
+  "description": "Tropical mango ice cream with a tangy twist.",
+  "duration": "5 weeks",
+  "image": "images/mango.jpg"
+},
+{
+  "id": 8,
+  "name": "Blueberry Burst",
+  "price": "$5.39",
+  "description": "Sweet and slightly tart blueberry ice cream.",
+  "duration": "6 weeks",
+  "image": "images/blueberry.jpg"
+},
+{
+  "id": 9,
+  "name": "Pistachio Delight",
+  "price": "$5.69",
+  "description": "Creamy pistachio ice cream with real nut pieces.",
+  "duration": "7 weeks",
+  "image": "images/pistachio.jpg"
+}
+]
